@@ -1,4 +1,4 @@
-.. Copyright 2010-2016 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+.. Copyright 2010-2017 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 
    This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0
    International License (the "License"). You may not use this file except in compliance with the
@@ -18,7 +18,7 @@ AWS Mobile SDK for Unity
 Welcome to the AWS Mobile SDK for Unity Developer Guide. `Unity <http://unity3d.com/>`_ is a popular
 cross-platform game development environment. It allows you to write your code once and build your
 game for many different devices including iPhone, iPad, and Android. The AWS Unity SDK contains a
-set of classes that enables games written with Unity to call AWS services. 
+set of classes that enables games written with Unity to call AWS services.
 
 Supported AWS services include:
 
