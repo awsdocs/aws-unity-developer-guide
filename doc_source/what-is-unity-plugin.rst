@@ -56,7 +56,7 @@ What's included in the AWS Mobile SDK for Unity?
 ================================================
 
 You can find the AWS Mobile SDK for Unity on GitHub. The complete list of NuGet packages, samples,
-nd other files can be found `here <https://github.com/aws/aws-sdk-net/tree/unityv3>`_.
+and other files can be found `here <https://github.com/aws/aws-sdk-net/tree/unityv3>`_.
 
 .. _Amazon Cognito: http://aws.amazon.com/cognito
 .. _Amazon DynamoDB: http://aws.amazon.com/dynamodb/
