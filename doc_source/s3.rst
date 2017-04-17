@@ -10,7 +10,7 @@
 
 .. highlight:: csharp
 
-Amazon Simple Storage Serivce (S3)
+Amazon Simple Storage Service (S3)
 ##################################
 
 Amazon Simple Storage Service (Amazon S3), provides developers and IT teams with secure, durable,
