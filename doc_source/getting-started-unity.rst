@@ -1,4 +1,4 @@
-.. Copyright 2010-2017 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+.. Copyright 2010-2018 Amazon.com, Inc. or its affiliates. All Rights Reserved.
 
    This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0
    International License (the "License"). You may not use this file except in compliance with the
@@ -10,6 +10,7 @@
 
 .. highlight:: csharp
 
+.. _getting-started-unity:
 
 #################################################
 Getting Started with the AWS Mobile SDK for Unity
@@ -19,8 +20,10 @@ This page provides you with an overview of each AWS service in the AWS Mobile SD
 as instructions on how to set up Unity samples. You must complete all of the instructions on the
 :doc:`setup-unity` page before you start using the services below.
 
-Cognito Identity
-================
+.. _unity-getting-started-cognito-identity:
+
+Amazon Cognito Identity
+=======================
 
 All calls made to AWS require AWS credentials. Rather than hard-coding your credentials into your
 apps, we recommend that you use `Amazon Cognito Identity
@@ -37,8 +40,8 @@ your app may access.
 
 To get started with Cognito Identity, see the `Amazon Cognito Developer Guide`_.
 
-Cognito Sync
-============
+Amazon Cognito Sync
+===================
 
 `Cognito Sync <http://docs.aws.amazon.com/cognito/devguide/sync/?platform=unity>`_ makes it easy for
 you to save end users data such as user preferences or game state to the AWS Cloud so that it can be
