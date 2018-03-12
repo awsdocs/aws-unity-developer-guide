@@ -8,26 +8,21 @@
    either express or implied. See the License for the specific language governing permissions and
    limitations under the License.
 
-.. _index:
+.. _how-to-storage:
 
-#########
-|AMHlong|
-#########
-
+##################################
+How To For Platform Specific Tasks
+##################################
 
 .. meta::
     :description:
-        Learn how to use |AMHlong| (|AMH|) to create, build, test and monitor mobile apps that are
-        integrated with AWS services.
+        Topics for integrating AWS Services on iOS.
+
+This section provides information on the steps for achieving specific tasks for integrating AWS Services into iOS apps.
 
 .. toctree::
-    :titlesonly:
-    :maxdepth: 1
-    :includehidden:
+   :titlesonly:
+   :maxdepth: 1
 
-
-
-    What is AWS Mobile? <what-is-aws-mobile>
-    Android and iOS <aws-mobile-android-and-iOS>
-    Web <aws-mobile-web>
-    React Native <aws-mobile-react-native>
+   how-to-ios-asynchrounous-tasks
+   how-to-ios-ats

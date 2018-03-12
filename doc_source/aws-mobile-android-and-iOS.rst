@@ -8,26 +8,28 @@
    either express or implied. See the License for the specific language governing permissions and
    limitations under the License.
 
-.. _index:
+.. _auth-mobile-android-and-ios:
 
-#########
-|AMHlong|
-#########
+##############################
+AWS Mobile for Android and iOS
+##############################
 
 
 .. meta::
     :description:
-        Learn how to use |AMHlong| (|AMH|) to create, build, test and monitor mobile apps that are
+        Use JavaScript to create, build, test and monitor mobile apps that are
         integrated with AWS services.
+
+The AWS Mobile SDKs for Android and iOS, in combination with the `AWS Mobile Hub <https://console.aws.amazon.com/mobilehub/home>`__, allow you to quickly and easily integrate robust cloud backends into your existing mobile apps. No AWS expertise is required to configure and begin to use features like user sign-in, database, push notifications and more.
 
 .. toctree::
     :titlesonly:
     :maxdepth: 1
-    :includehidden:
+
+    Get Started <getting-started>
+    Tutorials <tutorials-native-aws-mobile>
+    How To <aws-mobile-native-how-tos>
+    Reference <Reference>
 
 
 
-    What is AWS Mobile? <what-is-aws-mobile>
-    Android and iOS <aws-mobile-android-and-iOS>
-    Web <aws-mobile-web>
-    React Native <aws-mobile-react-native>

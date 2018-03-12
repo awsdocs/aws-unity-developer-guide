@@ -8,26 +8,24 @@
    either express or implied. See the License for the specific language governing permissions and
    limitations under the License.
 
-.. _index:
+.. _how-to-kinesis-data-stream:
 
-#########
-|AMHlong|
-#########
+######################################
+How To Stream Data with Amazon Kinesis
+######################################
 
 
 .. meta::
     :description:
-        Learn how to use |AMHlong| (|AMH|) to create, build, test and monitor mobile apps that are
-        integrated with AWS services.
+        Learn how to integrate data storage offered by Amazon Kinesis to your mobile app.
+
+This section provides information on the steps for achieving specific tasks for integrating your Amazon Kinesis into your Android and iOS apps.
 
 .. toctree::
-    :titlesonly:
-    :maxdepth: 1
-    :includehidden:
+   :titlesonly:
+   :maxdepth: 1
+
+   how-to-android-kinesis-data-stream
+   how-to-ios-kinesis-data-stream
 
 
-
-    What is AWS Mobile? <what-is-aws-mobile>
-    Android and iOS <aws-mobile-android-and-iOS>
-    Web <aws-mobile-web>
-    React Native <aws-mobile-react-native>

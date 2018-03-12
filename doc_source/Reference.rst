@@ -8,26 +8,26 @@
    either express or implied. See the License for the specific language governing permissions and
    limitations under the License.
 
-.. _index:
+.. _reference:
 
-#########
-|AMHlong|
-#########
+####################
+AWS Mobile Reference
+####################
 
 
 .. meta::
-    :description:
-        Learn how to use |AMHlong| (|AMH|) to create, build, test and monitor mobile apps that are
-        integrated with AWS services.
+   :description: Learn about |AMH| in more detail.
+
 
 .. toctree::
-    :titlesonly:
-    :maxdepth: 1
-    :includehidden:
+   :titlesonly:
+   :maxdepth: 1
+
+   SDK API References <reference-api-refs>
+   Amazon S3 Security Considerations <reference-s3-security>
+   Amazon CloudFront Security Considerations <reference-cloudfront-security>
+   AWS Mobile Hub Reference <reference-mobile-hub>
 
 
 
-    What is AWS Mobile? <what-is-aws-mobile>
-    Android and iOS <aws-mobile-android-and-iOS>
-    Web <aws-mobile-web>
-    React Native <aws-mobile-react-native>
+

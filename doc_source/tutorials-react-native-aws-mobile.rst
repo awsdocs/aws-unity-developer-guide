@@ -8,26 +8,31 @@
    either express or implied. See the License for the specific language governing permissions and
    limitations under the License.
 
-.. _index:
+.. _tutorials-react-native-aws-mobile:
 
 #########
-|AMHlong|
+Tutorials
 #########
 
 
 .. meta::
     :description:
         Learn how to use |AMHlong| (|AMH|) to create, build, test and monitor mobile apps that are
-        integrated with AWS services.
+        integrated with AWS services using React Native.
 
 .. toctree::
-    :titlesonly:
-    :maxdepth: 1
-    :includehidden:
+   :titlesonly:
+   :maxdepth: 1
+   :hidden:
+
+   Notes App <tutorial-react-native-aws-mobile-notes-setup>
 
 
+Notes App Tutorial
+==================
 
-    What is AWS Mobile? <what-is-aws-mobile>
-    Android and iOS <aws-mobile-android-and-iOS>
-    Web <aws-mobile-web>
-    React Native <aws-mobile-react-native>
+Build a simple note taking application. Start with an offline version of our data-driven app. Cloud-enable the app, adding app analytics, authentication and cloud data storage through AWS services.
+
+   * :ref:`Notes Tutorial <tutorial-react-native-aws-mobile-notes-setup>`
+
+

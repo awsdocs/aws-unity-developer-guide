@@ -8,26 +8,20 @@
    either express or implied. See the License for the specific language governing permissions and
    limitations under the License.
 
-.. _index:
+.. _react-native-aws-mobile-reference:
 
-#########
-|AMHlong|
-#########
+##################
+|AMHlong| Features
+##################
 
 
 .. meta::
-    :description:
-        Learn how to use |AMHlong| (|AMH|) to create, build, test and monitor mobile apps that are
-        integrated with AWS services.
-
-.. toctree::
-    :titlesonly:
-    :maxdepth: 1
-    :includehidden:
+   :description: Reference pages for AWS Mobile Web offerings for JavaScript authors.
 
 
+The following pages contain reference material for the AWS Mobile CLI for Web (JavaScript).
 
-    What is AWS Mobile? <what-is-aws-mobile>
-    Android and iOS <aws-mobile-android-and-iOS>
-    Web <aws-mobile-web>
-    React Native <aws-mobile-react-native>
+
+* :ref:`AWS Mobile CLI Reference <aws-mobile-cli-reference>`
+
+* :ref:`AWS Mobile CLI Credentials <aws-mobile-cli-credentials>`
