@@ -104,14 +104,13 @@ LogMetricsFormat property, valid values are JSON or standard.
 The following example shows the most commonly used settings in the awsconfig.xml file. For more
 information about specific service settings, see the service section below::
 
-    <?xml version="1.0" encoding="utf-8"?>
-    <aws region="us-west-2"
-        <logging logTo="UnityLogger"
-                 logResponses="Always"
-                 logMetrics="true"
-                 logMetricsFormat="JSON" />
-    />
-
+   <?xml version="1.0" encoding="utf-8"?>
+   <aws correctForClockSkew="true" region="us-west-2" >
+   <logging logTo="UnityLogger"
+            logResponses="Always"
+            logMetrics="true"
+            logMetricsFormat="JSON" />
+   </aws>
 
 Working with the link.xml file
 ------------------------------
